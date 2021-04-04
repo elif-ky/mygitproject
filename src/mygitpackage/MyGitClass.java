@@ -10,7 +10,10 @@ public class MyGitClass {
 		
 		System.out.println("My third commit");
 		
-		System.out.println("My fourth commit");
+        System.out.println("My fourth commit");
+
+		System.out.println("Uzak sunucudaki kodum");
+
 	}
 
 }
