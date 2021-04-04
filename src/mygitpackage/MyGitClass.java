@@ -14,6 +14,13 @@ public class MyGitClass {
 
 		System.out.println("Uzak sunucudaki kodum");
 
+		
+		System.out.println("Uzak sunucudaki YENİ kodum");
+		
+		
+		System.out.println("My fourty commit");
+		
+	
 	}
 
 }
