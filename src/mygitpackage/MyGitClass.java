@@ -20,6 +20,8 @@ public class MyGitClass {
 		
 		System.out.println("My fourty commit");
 		
+		
+		System.out.println("24. satırda uzak sunucu");
 	
 	}
 
