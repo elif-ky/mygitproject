@@ -23,11 +23,11 @@ public class MyGitClass {
 		
 		System.out.println("24. satÄ±rda uzak sunucu");
 	
-		System.out.println("Elif branchinde ilk commit");
+		System.out.println("Elif branchinde ilk commit 26. satır");
 		
-		System.out.println("Elif branch kaydet artık");
+		System.out.println("Elif branch kaydet artık 28. satır");
 		
-		System.out.println("Elif branch deneme tekrar");
+		System.out.println("Elif branch deneme tekrar 30.satır");
 		
 		
 		
