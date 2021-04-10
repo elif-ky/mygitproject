@@ -23,6 +23,9 @@ public class MyGitClass {
 		
 		System.out.println("24. satırda uzak sunucu");
 	
+		System.out.println("Elif branchinde ilk commit");
+		
+	
 	}
 
 }
