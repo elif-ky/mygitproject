@@ -27,6 +27,11 @@ public class MyGitClass {
 		
 		System.out.println("Elif branch kaydet artýk");
 		
+		System.out.println("Elif branch deneme tekrar");
+		
+		
+		
+		
 	
 	}
 
