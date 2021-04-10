@@ -25,6 +25,8 @@ public class MyGitClass {
 	
 		System.out.println("Elif branchinde ilk commit");
 		
+		System.out.println("Elif branch kaydet artýk");
+		
 	
 	}
 
